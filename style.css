@@ -1,0 +1,25 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100px;
+  margin-top: 200px;
+}
+button {
+  margin-left: 1200px;
+  padding: 12px;
+  border-radius: 30px;
+  box-shadow: none;
+  border-color: black;
+  background-color: rebeccapurple;
+}
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100px;
+  font-size: 30px;
+}
+body {
+  overflow: hidden;
+}
